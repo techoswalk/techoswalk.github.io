@@ -1,0 +1,1 @@
+// migrate to a single-page application (SPA) define page routes dynamically
